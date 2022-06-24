@@ -5,6 +5,9 @@
  */
 package midtermexam_versiona_extensioncode;
 
+/* This are comments for SYST 17796 Midterm Part C*/
+// On June 2, 2022
+
 /**
  * The user profile for the OnlineVids system. The user has a userID
  * and a favourite genre that must be one of the choices in the
